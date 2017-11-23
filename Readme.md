@@ -13,10 +13,17 @@
 - Aditya Sanghi
  
 ## Files included:
+
 -entertainment_center.py
--fresh_tomatoes.html
+
+-index.html
+
 -fresh_tomatoes.py
+
 -fresh_tomatoes.pyc
+
 -media.py
+
 -media.pyc
+
 -Readme.txt
